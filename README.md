@@ -1,6 +1,6 @@
 # Online Electronics Retailer Analysis
 
-## 🛠️ Project Overview
+## 📌 Project Overview
 This project analyzes transactional data from an online electronics retailer with the aim to:
 - Identify the highest revenue-generating products
 - Evaluate the most profitable customer segments
@@ -15,6 +15,22 @@ Raw and cleaned datasets are included in the `data/` folder:
 - `raw_electronics_sales.xlsx`  
 - `cleaned_electronics_sales.xlsx`  
 
-## 📈 Tools & Technologies
+## 🛠️ Tools & Technologies
 - Excel (for initial data cleaning and wrangling)  
 - Tableau Desktop (for dashboard creation)  
+
+## 📊 Dashboard 
+### Dashboard #1
+<kbd>
+  <img width="1122" height="663" alt="Dashboard 1" src="https://github.com/user-attachments/assets/cf6a830a-9e3b-4d80-91f5-a2b08dc38df6" style="display:block; margin-bottom:30px;" />
+</kbd>
+
+### Dashboard #2
+<kbd>
+  <img width="1122" height="663" alt="Dashboard 2" src="https://github.com/user-attachments/assets/2dffc940-6eff-4f94-ac05-18384624d312" style="display:block; margin-bottom:30px;" />
+</kbd>
+
+### Dashboard #3
+<kbd>
+  <img width="1122" height="663" alt="Dashboard 3" src="https://github.com/user-attachments/assets/c55a9ef2-e4c2-464b-ab8d-1f5ac6f672bd" style="display:block;" />
+</kbd>
