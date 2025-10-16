@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyses transactional data from an online electronics retailer with the aim to:
 - Identify the highest revenue-generating products
-- Evaluate the most profitable customer segments
+- Evaluate the most profitable customer segment
 - Determine top-performing markets or regions
 
 **The analysis is presented through an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/musa.haron/viz/OnlineElectronicsRetailerDashboard/Dashboard1)**
