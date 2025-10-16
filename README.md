@@ -1,7 +1,7 @@
 # Online Electronics Retailer Analysis
 
 ## 📌 Project Overview
-This project analyzes transactional data from an online electronics retailer with the aim to:
+This project analyses transactional data from an online electronics retailer with the aim to:
 - Identify the highest revenue-generating products
 - Evaluate the most profitable customer segments
 - Determine top-performing markets or regions
