@@ -1,1 +1,1 @@
-# online-electronics-retailer-analysis
+# Online Electronics Retailer Analysis
